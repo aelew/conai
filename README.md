@@ -1,6 +1,6 @@
 # ✨ conai
 
-An AI-powered CLI tool for standardizing your commit messages according to the Conventional Commits specification.
+An AI-powered CLI tool for standardizing commit messages according to the Conventional Commits specification.
 
 ## Usage
 

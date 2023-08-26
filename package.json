@@ -1,7 +1,7 @@
 {
   "name": "conai",
   "version": "1.0.0",
-  "description": "An AI-powered CLI tool for standardizing your commit messages according to the Conventional Commits specification.",
+  "description": "An AI-powered CLI tool for standardizing commit messages according to the Conventional Commits specification.",
   "main": "./bin/index.js",
   "bin": {
     "conai": "./bin/index.js"
