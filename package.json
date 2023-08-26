@@ -1,0 +1,40 @@
+{
+  "name": "conai",
+  "version": "1.0.0",
+  "description": "An AI-powered CLI tool for standardizing your commit messages according to the Conventional Commits specification.",
+  "main": "./bin/index.js",
+  "bin": {
+    "conai": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelew/conai.git"
+  },
+  "keywords": [
+    "cli",
+    "git",
+    "convention",
+    "specification",
+    "standard",
+    "commit",
+    "conventional-commits"
+  ],
+  "author": "aelew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aelew/conai/issues"
+  },
+  "homepage": "https://github.com/aelew/conai#readme",
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "openai": "^4.2.0",
+    "ora": "5.4.1",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "prettier": "3.0.2"
+  }
+}
